@@ -1,0 +1,2 @@
+
+svg symbol loader
