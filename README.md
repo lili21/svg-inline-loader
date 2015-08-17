@@ -1,2 +1,6 @@
 
-svg symbol loader
+###svg inline loader
+
+webpack loader
+
+for svg sprites
