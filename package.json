@@ -1,6 +1,6 @@
 {
   "name": "svg-symbol-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "insert svg to body",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,10 @@
     "inline",
     "loader"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lili21/svg-symbol-loader.git"
+  },
   "author": "li.li",
   "license": "ISC"
 }
